@@ -1,0 +1,5 @@
+Required Softwares:-
+Java 
+IDE Eclipse
+Maven 
+Spring
